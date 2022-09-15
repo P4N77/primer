@@ -75,7 +75,7 @@ body {
 }
 
 .svg:nth-child(3) {
-  left: 14%;
+  left: 15%;
   -webkit-animation: raise3 12s linear infinite;
           animation: raise3 12s linear infinite;
   -webkit-animation-delay: -3s;
